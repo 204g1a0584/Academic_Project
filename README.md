@@ -1,4 +1,4 @@
-# SRIT_FY_PROJECT_B8
+# FY_PROJECT_B8
 This Repo contains the files,docunments and Code related to Our Final Year Major Project.
 We are a team of 4 members currently working on Machine Learning Project.
 
